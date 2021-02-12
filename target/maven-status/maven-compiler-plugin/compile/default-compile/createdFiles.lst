@@ -1,6 +1,11 @@
-polly\springframework\Coach.class
+polly\springframework\SwimCoach.class
 polly\springframework\Service\FortuneService.class
 polly\springframework\BaseballCoach.class
-polly\springframework\TrackCoach.class
+polly\springframework\TennisCoach.class
 polly\springframework\App.class
 polly\springframework\Service\FortuneServiceImpl.class
+polly\springframework\Config.class
+polly\springframework\Coach.class
+polly\springframework\Service\FortuneServiceImpl2.class
+polly\springframework\TrackCoach.class
+polly\springframework\ConfigNoScan.class
